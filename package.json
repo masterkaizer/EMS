@@ -1,0 +1,20 @@
+{
+  "name": "ems",
+  "version": "1.0.0",
+  "description": "Its an EMS app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server/npm i / ",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterkaizer/EMS.git"
+  },
+  "author": "Brandon J Sellam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masterkaizer/EMS/issues"
+  },
+  "homepage": "https://github.com/masterkaizer/EMS#readme"
+}
